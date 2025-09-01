@@ -1,2 +1,3 @@
 # varen-dres
-The Shadow Behind the Smile
+"Once a loyal retainer of House Dres, Varan grew disillusioned when he saw the petty squabbles of his kin. Instead of clinging to tradition, he sought true power in manipulation and blood. He walked among mortals as one of them, his smile a mask, his hand a dagger. To him, people are tools — pawns to be deceived, frightened, or killed as needed. When whispers of vampiric covens reached his ear, he embraced the curse willingly. For what is undeath, if not the perfect form of control?
+Varan believes kindness is weakness, morality is a cage, and chaos is the natural order. He is the shadow behind the smile, the hand that turns friend against friend, and the whisper that pushes mortals into ruin."
