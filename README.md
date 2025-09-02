@@ -1,7 +1,10 @@
 
 # 🩸 The Complete Path of Varan Dres: The Shadow Behind the Smile
 
-For quick [Tips, Tricks, and Reference Guide](tips-tricks-reference/README.md)
+For quick [Tips, Tricks, and Reference Guide](tips-tricks-reference/README.md)   
+Finnish [Varan Dreksen Täydellinen Polku: Varjo Hymyn Takana](README_fin.md)
+
+***
 
 ## 📖 Core Philosophy & Identity
 
