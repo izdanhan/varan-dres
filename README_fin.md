@@ -25,7 +25,7 @@ English [The Complete Path of Varan Dres: The Shadow Behind the Smile](README.md
 
 ***
 
-## ⚔️ Mestari Perk & Taitojen Kehityssuunnitelma
+## ⚔️ Mestari Perk & Skills Kehityssuunnitelma
 
 Tämä on sinun raamattusi. Tutki sitä jokaisen tasojen nousun yhteydessä.
 
