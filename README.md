@@ -32,11 +32,11 @@ This is your bible. Consult it every level-up.
 
 | Level | Primary Focus | Must-Have Perks | Secondary Goals | Recommended Gear |
 | --- | --- | --- | --- | --- |
-| **1-10** | Survival & Stealth | **Sneak (20):** Muffled Movement, Backstab (1/5)\n**Illusion (25):** Novice Illusion, Animage\n**One-Handed (20):** Armsman (1/5) | Get a dagger. Train Illusion with Farengar. Acquire Bow. | Hide Armor, Imperial Sword, Hide Bow |
-| **11-20** | Assassin's Tools | **Sneak (40):** Deadly Aim, Assassin's Blade\n**Illusion (50):** Hypnotic Gaze, Kindred Mage, Dual Casting\n**One-Handed (40):** Armsman (2/5), Fighting Stance | Get the Blade of Woe. Acquire Shrouded Armor. Start Alchemy for poisons. | Shrouded Armor, Blade of Woe, Illusion Robes |
-| **21-30** | Vampiric Ascension | **Illusion (70):** Quiet Casting, Aspect of Terror\n**Sneak (60):** Silence, Deadly Aim (2/2)\n**Restoration (30):** Novice Restoration | Become a Vampire. Get Necromage. Use Fear spells. | Vampire Armor, Ring of the Erudite, Necromancer Amulet |
-| **31-40** | Lord of Mind & Undead | **Illusion (90):** Master of the Mind\n**Sneak (80):** Shadow Warrior\n**Restoration (70):** Necromage, Recovery (1/2) | Master Illusion. Control undead/daedra. Acquire Daedric artifacts. | Royal Vampire Armor, Drainheart Sword (AE), Ring of Namira |
-| **41-50** | Absolute Dominion | **Illusion (100):** Rage, Mayhem\n**Sneak (100):** All perks\n**One-Handed (60):** Armsman (5/5), Dual Flurry | Max out key skills. Begin collecting unique items and souls for enchanting. | Ancient Vampire's Edge (AE), Ahzidal's Armor, Konahrik |
+| **1-10** | Survival & Stealth | **Sneak (20):** Muffled Movement, Backstab (1/5)<br>**Illusion (25):** Novice Illusion, Animage<br>**One-Handed (20):** Armsman (1/5) | Get a dagger. Train Illusion with Farengar. Acquire Bow. | Hide Armor, Imperial Sword, Hide Bow |
+| **11-20** | Assassin's Tools | **Sneak (40):** Deadly Aim, Assassin's Blade<br>**Illusion (50):** Hypnotic Gaze, Kindred Mage, Dual Casting<br>**One-Handed (40):** Armsman (2/5), Fighting Stance | Get the Blade of Woe. Acquire Shrouded Armor. Start Alchemy for poisons. | Shrouded Armor, Blade of Woe, Illusion Robes |
+| **21-30** | Vampiric Ascension | **Illusion (70):** Quiet Casting, Aspect of Terror<br>**Sneak (60):** Silence, Deadly Aim (2/2)<br>**Restoration (30):** Novice Restoration | Become a Vampire. Get Necromage. Use Fear spells. | Vampire Armor, Ring of the Erudite, Necromancer Amulet |
+| **31-40** | Lord of Mind & Undead | **Illusion (90):** Master of the Mind<br>**Sneak (80):** Shadow Warrior<br>**Restoration (70):** Necromage, Recovery (1/2) | Master Illusion. Control undead/daedra. Acquire Daedric artifacts. | Royal Vampire Armor, Drainheart Sword (AE), Ring of Namira |
+| **41-50** | Absolute Dominion | **Illusion (100):** Rage, Mayhem<br>**Sneak (100):** All perks<br>**One-Handed (60):** Armsman (5/5), Dual Flurry | Max out key skills. Begin collecting unique items and souls for enchanting. | Ancient Vampire's Edge (AE), Ahzidal's Armor, Konahrik |
 
 ***
 
