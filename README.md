@@ -5,9 +5,9 @@ For quick [Tips, Tricks, and Reference Guide](tips-tricks-reference/README.md)
 
 ## 📖 Core Philosophy & Identity
 
-**True Name:** Varan Dres
-**Alias:** None. He wears his name like a badge of dishonor, a warning to those who know what House Dres represents.
-**Motto:** *"From the ashes of a weak house, a stronger predator rises."*
+**True Name:** Varan Dres   
+**Alias:** None. He wears his name like a badge of dishonor, a warning to those who know what House Dres represents.   
+**Motto:** *"From the ashes of a weak house, a stronger predator rises."*   
 
 **Background Refined:** Varan wasn't merely disillusioned with House Dres; he was disgusted by their stagnation. They clung to the old ways—slavery, agrarian power—while the world moved on. He saw true power not in owning flesh, but in owning *will*. He seeks to build a new kind of House, not of land and slaves, but of influence, fear, and immortal agents. He sees vampirism not as a curse, but as an evolutionary advantage, a necessary step for a Dunmer to transcend their mortal limitations and reclaim a sense of supreme, unchallenged authority.
 
