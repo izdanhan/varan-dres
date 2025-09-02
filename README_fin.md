@@ -11,7 +11,7 @@ English [The Complete Path of Varan Dres: The Shadow Behind the Smile](README.md
 **Alias:** Ei mitään. Hän käyttää nimeään kunniatonmerkkinä, varoituksena niille, jotka tietävät, mitä House Dres edustaa.  
 **Motto:** *"Heikon suvun tuhkasta nousee vahvempi saalistaja."*
 
-**Tarkennettu Tausta:** Varan ei ollut pelkästään pettynyt House Dresiin; hän oli inhoissaan heidän liikkumattomuudestaan. He takertuivat vanhoihin tapoihin—orjuuteen, maatalousvaltaan—kun maailma eteni eteenpäin. Hän näki todellisen voiman ei lihan omistamisessa, vaan *tahton* omistamisessa. Hän pyrki rakentamaan uudenlaisen suvun, ei maasta ja orjista, vaan vaikutusvallasta, pelosta ja kuolemattomista agenteista. Hän näkee vampyyrismin ei kirouksena, vaan evolutiivisena etuna, välttämättömänä askeleena dunmerille ylittääkseen heidän kuolevalliset rajoituksensa ja vallatakseen takaisin ylivertaisen, haastamattoman auktoriteetin tunteen.
+**Tarkennettu Tausta:** Varan ei ollut pelkästään pettynyt House Dresiin; hän oli inhoissaan heidän liikkumattomuudestaan. He takertuivat vanhoihin tapoihin—orjuuteen, maatalousvaltaan—kun maailma eteni eteenpäin. Hän näki todellisen voiman ei ihmisten omistamisessa, vaan *tahdon* omistamisessa. Hän pyrki rakentamaan uudenlaisen suvun, ei maasta ja orjista, vaan vaikutusvallasta, pelosta ja kuolemattomista agenteista. Hän näkee vampyyrismin ei kirouksena, vaan evolutiivisena etuna, välttämättömänä askeleena dunmerille ylittääkseen heidän kuolevalliset rajoituksensa ja vallatakseen takaisin ylivertaisen, haastamattoman auktoriteetin tunteen.
 
 ***
 
