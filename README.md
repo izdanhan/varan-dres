@@ -1,6 +1,8 @@
 
 # 🩸 The Complete Path of Varan Dres: The Shadow Behind the Smile
 
+For quick [Tips, Tricks, and Reference Guide](tips-tricks-reference/README.md)
+
 ## 📖 Core Philosophy & Identity
 
 **True Name:** Varan Dres
@@ -89,5 +91,3 @@ This is your chronological path through Skyrim. Do not rush. Let each phase brea
 - **Winterhold:** A blasted ruin. A reminder of the folly of mortals. The College is merely a library to you.
 
 This path will transform you from a nobody into the most feared and influential power in Skyrim, a true Shadow Behind the Smile, using every tool the game and the Anniversary Edition provides. Now go, and make Skyrim fear the night.
-
-Check out our [Tips, Tricks, and Reference Guide](tips-tricks-reference/README.md)
