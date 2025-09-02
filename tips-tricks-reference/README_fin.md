@@ -99,4 +99,4 @@ Tämä on tehokkain temppu mille tahansa vampyyrityylille.
 - **Asu Pesässäsi:** Vampire Royal Armor tai Robes of the Tribunal (AE).
 - **Aseinäyttely:** Kotisi pitäisi näyttellä artefaktteja, joita et käytä, kuten Mace of Molag Bal ja Mehrunes' Razor, valloituksiesi trofeoina.
 
-Takaisin [Varan Dreksen Täydellinen Polku: Varjo Hymyn Takana](../README_fin.md)
+Takaisin [Varan Dresin Nousu: Tuhkasta Kuolemattomuuteen](../README_fin.md)

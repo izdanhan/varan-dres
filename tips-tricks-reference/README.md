@@ -100,4 +100,4 @@ This is the most powerful trick for any vampire build.
 - **Outfit for Your Lair:** Vampire Royal Armor or the Robes of the Tribunal (AE).
 - **Weapon Display:** Your home should display artifacts you aren't using, like the Mace of Molag Bal and Mehrunes' Razor, as trophies of your conquests.
 
-Back to [The Complete Path of Varan Dres: The Shadow Behind the Smile](../README.md)
+Back to [The Ascent of Varan Dres: From House Ashes to Unlife Eternal](../README.md)
