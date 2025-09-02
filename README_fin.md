@@ -20,7 +20,7 @@ English [The Complete Path of Varan Dres: The Shadow Behind the Smile](README.md
 - **Dunmerin Ylimielisyys:** Dresinä, katso alaspäin argoniaaneja ja khajiiteja. Näe heidät alempina olentoina, ensisijaisina manipulointi- tai ruokailuehdokkaina. Näe nordit raakalaisina, hienovaraisina hölmöinä.
 - **Vampyyrin Estetiikka:** Hylkää kömpelöt haarniskat. Suosi hienoja vaatteita, tummia kaapuja tai tyylikästä, kevyttä panssaria, kuten Vampire Royal Armoria tai tyylikästä Bonemoldia (AE). Ulkonäkösi on petoksen työkalu.
 - **Kaupan Taide:** Älä koskaan tee väkivaltaa, kun hyvin asetettu valhe tai manipuloitu vihollinen hoitaa työn puolestasi. Lahjo virkamiehiä, kiristä kauppiaita ja käytä **Puhetaito (Speechcraft)** -taitoa täysimääräisesti.
-- **Dokumentoi Noususi:** Käytä **Journal of the Dragonborn -muodinomaista roolipelaamista, mutta vanilla**. Kirjoita oikeasti fyysiseen muistivihkoon tai digitaaliseen asiakirjaan. Merkitse ylös tapposi, manipulaatiosi ja kasvava voimasi. Huomioi hetki, jolloit päätit säästää Seranan tai uhrata hänet.
+- **Dokumentoi Noususi:** Käytä **Journal of the Dragonborn -modinomaista roolipelaamista, mutta vanilla**. Kirjoita oikeasti fyysiseen muistivihkoon tai digitaaliseen asiakirjaan. Merkitse ylös tapposi, manipulaatiosi ja kasvava voimasi. Huomioi hetki, jolloit päätit säästää Seranan tai uhrata hänet.
 - **Koti on Viesti:** Pääasiallinen asuinpaikkasi on **Bloodchill Manor (AE)**. Käytä **Gallows Hallia (AE)** nekromanttisena tutkimusasemana. **Hendraheim (AE)** on liian "sankarinomainen"; **Myrwatch** liian noita-orientoitunut. Nämä eivät ole vain taloja; ne ovat vaikutusvaltasi linnoituksia.
 
 ***
