@@ -66,6 +66,8 @@ This is your chronological path through Skyrim. Do not rush. Let each phase brea
 
 ### **ACT I: THE ASPIRING BLADE (Levels 1-15)**
 
+Detailed [Shadow Path: Act I Roadmap (Levels 1–15)](act_1/README.md) 
+
 - **Objective:** Establish your facade and acquire your basic tools of the trade.
 - **Main Quest:** Escape Helgen. Go to Riverwood. Deliver the message to Whiterun. **Stop after killing the first dragon at the Western Watchtower.** You have now proven yourself capable and unlocked shouts, a useful tool. The fate of the world bores you.
 - **The Essential Questline:** Immediately travel to Windhelm. Hear the rumor of Aventus Aretino. Complete **"Innocence Lost."** Kill Grelod with a dagger sneak attack. Sleep to initiate the Dark Brotherhood. Complete the first few contracts up to **"Recipe for Disaster"** to get your base of operations and essential gear.
