@@ -3,10 +3,10 @@
 
 ## ⚔️ Core Build Cheat Sheet
 
-**Primary Skills:** Illusion, Sneak, One-Handed (Daggers)
-**Secondary Skills:** Archery, Light Armor, Speech, Alchemy (Poisons)
-**Faction Alignment:** Dark Brotherhood, Volkihar Vampires, Thieves Guild (for profit), College of Winterhold (for training)
-**Moral Compass:** None. Ruthless Pragmatism.
+**Primary Skills:** Illusion, Sneak, One-Handed (Daggers)   
+**Secondary Skills:** Archery, Light Armor, Speech, Alchemy (Poisons)   
+**Faction Alignment:** Dark Brotherhood, Volkihar Vampires, Thieves Guild (for profit), College of Winterhold (for training)   
+**Moral Compass:** None. Ruthless Pragmatism.   
 
 ### Essential Spells to Acquire ASAP
 
