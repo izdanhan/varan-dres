@@ -8,8 +8,10 @@ English [The Ascent of Varan Dres: From House Ashes to Unlife Eternal](README.md
 ## 📖 Ydinfilosofia & Identiteetti
 
 **Oikea Nimi:** Varan Dres
-**Alias:** Tuhkanäkiä (Nimi, jota hänen harvat pelokkaat työtoverinsa kuiskuttelevat, sillä hän näkee voittoa tuhossa ja vallan tuhkassa).
-**Motto:** *"Heikkus on ainoa todellinen synti. Valta on ainoa todellinen hyve."*
+
+**Alias:** Tuhkanäkiä (Nimi, jota hänen harvat pelokkaat työtoverinsa kuiskuttelevat, sillä hän näkee voittoa tuhossa ja vallan tuhkassa).   
+
+**Motto:** *"Heikkus on ainoa todellinen synti. Valta on ainoa todellinen hyve."*   
 
 **Tausta Tarkennettuna:** Varan on kerran suuren, nyt rappeutuneen suvun halveksittu perillinen, joka ajautui merkityksettömyyteen omasta paikoillaan seisomisestaan. Missä hänen sukunsa näki perinteitä, hän näki häkin. Missä he näkivät omaisuutta orjissa, hän näki heikkouksia lihassa, joka voi sairastua, vanhentua ja kapinoida. Hänen filosofiansa on armoton evoluutio dunmerien tahtovallasta: todellinen kontrolli ei ole kehon, vaan sielun, tahdon ja vaikutusvallan itsensä yli. Hän pitää vampyyriutta ei sairautena, vaan ylhäistymisenä — välttämättömänä muutoksena uudenlaisen dunmer-ylimyyden luomiseksi, ylimyyden joka rakentuu varjoille, verelle ja iankaikkiselle herruudelle.
 
