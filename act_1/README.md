@@ -1,3 +1,4 @@
+
 # 🗡️ Shadow Path: Act I Roadmap (Levels 1–15)
 
 A step-by-step guide for **Varan’s early journey**, weaving together Illusion, Sneak, and One-Handed growth while staying true to the assassin/vampire path. This path covers the time **after escaping Helgen** up through the foundation of the **Dark Brotherhood** and entry into the **College of Winterhold**.
